@@ -6,8 +6,6 @@
 ## Contents
 
 - [Publishing](#publishing)
-  - [Publication Strategies and Practices]
-  - [FAQ]
 - [Another Section](#another-section)
 
 
@@ -16,12 +14,13 @@
 This section contains presentations about publication strategies and related FAQs.
 
 - [Publication Strategies and Practices (Mauro Pezz&egrave;)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Publication.pdf)
-- FAQ
-  - Is it worth my time to publish in workshops?
-  - How to balance conference and journal submissions
-  - All my ICSE/FSE/ASE papers got rejected. Should I send the work to lesser venues so I don't have a big hole in my CV?
-  - Should I target the top 2 conferences or is building a reputation in less high-profile but tight-knit communities acceptable?
-  - How much wood does a woodchuck chuck if a woodchuck would get tenure? (where wood is papers, and chucking is publishing, and the woodchuck is a junior faculty)
+
+### FAQ
+- Is it worth my time to publish in workshops?
+- How to balance conference and journal submissions
+- All my ICSE/FSE/ASE papers got rejected. Should I send the work to lesser venues so I don't have a big hole in my CV?
+- Should I target the top 2 conferences or is building a reputation in less high-profile but tight-knit communities acceptable?
+- How much wood does a woodchuck chuck if a woodchuck would get tenure? (where wood is papers, and chucking is publishing, and the woodchuck is a junior faculty)
 
 
 ## Another Section
