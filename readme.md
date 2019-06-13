@@ -29,7 +29,7 @@ This section contains resources about publication strategies and related FAQs.
 - Should I target the top 2 conferences or is building a reputation in less high-profile but tight-knit communities acceptable?
 - How much wood does a woodchuck chuck if a woodchuck would get tenure? (where wood is papers, and chucking is publishing, and the woodchuck is a junior faculty)
 
-## Resarch
+## Research
 
 This section contains resources for developing own research and related FAQs.
 
