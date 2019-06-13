@@ -41,7 +41,7 @@ This section contains resources for developing own research and related FAQs.
 
 This section contains resources regarding specific for tenure promotion and related FAQs.
 
-### FAQ
+### FAQ
 - What are the criteria and what is the weight for each criterion?
 - How do you know you're spending time on the "right stuff", i.e., the stuff that leads to tenure?
 - How to get tenure with having a life? (R1. More relaxed university).
@@ -53,7 +53,7 @@ This section contains resources regarding specific for tenure promotion and rela
 - What if I have a silent enemy in the research world, or someone who thinks I'm an imposter, and they end up writing a tenure letter?
 - What are the strategies of finding people to write tenure promotion letters?
 
-## Students
+## Students
 
 This section contains resources regarding recruiting, advising, and mentoring graduate students and related FAQs.
 
@@ -73,11 +73,11 @@ This section contains resources regarding recruiting, advising, and mentoring gr
 - I've been at the job for 5 years and still my most mature PhD student is 2 years from defending. Can I still get tenure?
 - Can I get tenured with only supervising master students?
 
-## Fundings
+## Fundings
 
 This section contains resources regarding reserch funding applications, grant proposal writing and related FAQs.
 
-### FAQ
+### FAQ
 - SSHRC vs NSERC for human subjects type research?
 - How many grant proposals should you aim to write a year?
 - Best advice you ever received for grant writing?
@@ -90,11 +90,11 @@ This section contains resources regarding reserch funding applications, grant pr
 - In terms of necessary and sufficient conditions for getting tenure, where does the CAREER award sit?
 - How much money do you think is enough for tenure (I realize this varies by university, but it would be nice to know what the average SE person is trying to pull in a year)?
 
-## Teaching
+## Teaching
 
 This section contains resources regarding teaching and relared FAQs.
 
-### FAQ
+### FAQ
 - How much planning?
 - How to make sure I'm not spending ALL my time teaching?
 - How to handle a big classroom?
@@ -108,11 +108,11 @@ This section contains resources regarding teaching and relared FAQs.
 - How are peer teaching evaluations weighted against student evaluations?
 - Is it really true that teaching and research are *equally* important? This is what I have been told by my colleagues. I feel myself less passionate about teaching than doing research, although my teaching evaluations are fine. I don’t spend quite much time on course preparation.
 
-## Collaboration
+## Collaboration
 
 This section contains resources regarding collaboration and outreach activities, and related resourceThis section contains resources regarding collaboration and outreach activities, and related FAQs.
 
-### FAQ
+### FAQ
 - Should I spend some time visiting Universities/Companies and giving talks before the tenure year? I know some people do this, but I’m not sure if it worth the money and effort.
 - What are characteristics of productive collaborations?
 - What are red flags for collaborators?
@@ -120,11 +120,10 @@ This section contains resources regarding collaboration and outreach activities,
 - How to establish industrial connection?
 - How do I invite people to collaborate with me on a grant?
 
-
-## Service
+## Service
 This section contains resources regarding community service and related FAQs.
 
-### FAQ
+### FAQ
 - What does "too little" vs. "too much" service look like?
 -If I'm on the organizing committee for a conference, does that help/hurt my tenure case? According to Lori Clarke, when asked the same, she said something to the tune of "I cannot think of any valid reason for why a junior faculty should ever serve on an organizing committee."
 
@@ -132,7 +131,7 @@ This section contains resources regarding community service and related FAQs.
 
 This section contains resources regarding faculty life and related FAQs.
 
-### FAQ
+### FAQ
 - How to change/add research fields/communities as junior faculty?
 - Do you have any books that helped you when you started faculty life? Or ones you wish you had a read earlier on?
 - How many hours of work per week is needed?
