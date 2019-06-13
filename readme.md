@@ -15,7 +15,7 @@
 
 This section contains presentations about publication strategies and related FAQs.
 
-- [Publication Strategies and Practices (Mauro Pezz&egrave;)](http://example.com)
+- [Publication Strategies and Practices (Mauro Pezz&egrave;)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Publication.pdf)
 - FAQ
   - Is it worth my time to publish in workshops?
   - How to balance conference and journal submissions
