@@ -108,7 +108,7 @@ This section contains resources regarding teaching and relared FAQs.
 - How are peer teaching evaluations weighted against student evaluations?
 - Is it really true that teaching and research are *equally* important? This is what I have been told by my colleagues. I feel myself less passionate about teaching than doing research, although my teaching evaluations are fine. I don’t spend quite much time on course preparation.
 
-## Collaboration
+## Collaborations
 
 This section contains resources regarding collaboration and outreach activities, and related resourceThis section contains resources regarding collaboration and outreach activities, and related FAQs.
 
