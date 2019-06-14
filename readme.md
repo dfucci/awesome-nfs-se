@@ -53,6 +53,7 @@ This section contains resources regarding specific for tenure promotion and rela
 - What are 'red flags' in letters from the community, and how do I avoid them?
 - What if I have a silent enemy in the research world, or someone who thinks I'm an imposter, and they end up writing a tenure letter?
 - What are the strategies of finding people to write tenure promotion letters?
+- How do I deal with a malicious interviewers in a hiring board?
 
 ## Students
 
@@ -148,6 +149,7 @@ This section contains resources regarding faculty life and related FAQs.
 - Besides research and teaching, how important is socializing with colleagues in the department? I know I must not piss people off, but do I need to attend the social events I don’t enjoy or be with people I don’t like?
 - Is it okay to argue for something during the faulty meeting?
 - When requesting resources from or expressing my opinions to the department chair, is there anything I should pay special attention to? Does department chair play a more important role in tenure promotion?
+- How to handle departmental micro-managing/tedious tasks?
 
 ## Others
 
