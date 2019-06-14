@@ -16,6 +16,7 @@
 - [Faculty](#faculty)
 - [Others](#others)
 
+
 ## Publishing
 
 This section contains resources about publication strategies and related FAQs.
@@ -155,6 +156,11 @@ This section contains resources not falling under any of the previous sections.
 ### FAQ
 - How to go on the job search again if your first faculty job isn't working out?
 - How important are the unofficial aspects of the situation, such as inter-personal management?
+- Two faculties in the family plus two kids, how to balance work and life?
+- How to follow a research career when you are not that mobile due to family restrictions (lids, partner's career)?
+- How to increase your visibility if you come from a small not too well known university? People usually first ask where you come from and who your supervisor is. 
+- Why do you choose a career in academic over industry? Any regrets?
+- How to fight with the temptation to go to industry?
 
 ## Contribute
 
