@@ -97,8 +97,7 @@ This section contains resources regarding teaching and relared FAQs.
 ### FAQ
 - How much planning?
 - How to make sure I'm not spending ALL my time teaching?
-- How to handle a big classroom?
-- How to engage students in large lecture based class?
+- How to engage students in large lecture-based class?
 - How do I negotiate my teaching load to be every other semester?
 - Are there any resources for how to put together a course?
 - How to effectively communicate with TA?
@@ -107,6 +106,11 @@ This section contains resources regarding teaching and relared FAQs.
 - Does my department actually care about my student evals of teaching being great, or just that they're not terrible?
 - How are peer teaching evaluations weighted against student evaluations?
 - Is it really true that teaching and research are *equally* important? This is what I have been told by my colleagues. I feel myself less passionate about teaching than doing research, although my teaching evaluations are fine. I don’t spend quite much time on course preparation.
+- How to setup the tone in classroom when your students are young professionals in the tech industry, and they are about the same age as you?
+- How to achieve a teaching focused career?
+- How to turn teaching work into research?
+- How to watch good students with interesting topics?
+- How do you prioritise teaching in a university that values research more?
 
 ## Collaborations
 
