@@ -38,6 +38,16 @@ This section contains resources for developing own research and related FAQs.
 
 ### FAQ
 
+- Does posting your research and publications in Facebook LinkedIn etc. help visibility?
+- I'm told to put "buzz" words, "AI", "ML", "IOT", etc., in my research topic. Is that really necessary?
+- What to do with papers I am proud of (TSE) but low citation?
+- Should I collaborate with people I know and work well with, or seek out new collaborations to learn new skills? How are those two alternatives perceived?
+- How many co-authors? Trade-offs between starting new collaborations vs working out your own research agenda?
+- Research balance between exploring a research topic deeply vs exploring more topics with collaborators?
+- How to succeed at a mediocre university? What if my country is not an ideal place for doing research? Do I still have a chance without relocation?
+- How do I go about building a new research community?
+- How do you convince people outside your area the importance of your work (mainly for job interviews)?
+ 
 ## Promotion
 
 This section contains resources regarding specific for tenure promotion and related FAQs.
