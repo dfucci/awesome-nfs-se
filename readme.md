@@ -167,6 +167,9 @@ This section contains resources regarding faculty life and related FAQs.
 
 This section contains resources not falling under any of the previous sections.
 
+- [Faculty life and well-being (Jon Whittle)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Wellbeing.pdf)
+
+
 ### FAQ
 - How to go on the job search again if your first faculty job isn't working out?
 - How important are the unofficial aspects of the situation, such as inter-personal management?
@@ -179,7 +182,6 @@ This section contains resources not falling under any of the previous sections.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-- [Faculty life and well-being (Jon Whittle)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Wellbeing.pdf)
 
 ## License
 
