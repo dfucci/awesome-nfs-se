@@ -179,7 +179,7 @@ This section contains resources not falling under any of the previous sections.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+- [Faculty life and well-being (Jon Whittle)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Wellbeing.pdf)
 
 ## License
 
