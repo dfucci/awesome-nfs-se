@@ -106,6 +106,8 @@ This section contains resources regarding reserch funding applications, grant pr
 
 This section contains resources regarding teaching and relared FAQs.
 
+- [Teaching and Instructional Work (Patricial Lago)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Teaching.pdf)
+
 ### FAQ
 - How much planning?
 - How to make sure I'm not spending ALL my time teaching?
