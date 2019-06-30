@@ -69,7 +69,7 @@ This section contains resources regarding specific for tenure promotion and rela
 
 This section contains resources regarding recruiting, advising, and mentoring graduate students and related FAQs.
 
-- [Students recruiting, advising, and mentoring](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Students.pdf)
+- [Students recruiting, advising, and mentoring](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NFS-Students.pdf)
 
 ### FAQ
 - How to maintain boundaries but also be accessible ?
@@ -108,7 +108,7 @@ This section contains resources regarding reserch funding applications, grant pr
 
 This section contains resources regarding teaching and relared FAQs.
 
-- [Teaching and Instructional Work (Patricial Lago)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Teaching.pdf)
+- [Teaching and Instructional Work (Patricial Lago)](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NFSTeaching.pdf)
 
 ### FAQ
 - How much planning?
