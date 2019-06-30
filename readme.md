@@ -69,6 +69,8 @@ This section contains resources regarding specific for tenure promotion and rela
 
 This section contains resources regarding recruiting, advising, and mentoring graduate students and related FAQs.
 
+- [Students recruiting, advising, and mentoring](https://github.com/dfucci/awesome-nfs-se/blob/master/presentations/2019-ICSE-NSF-Students.pdf)
+
 ### FAQ
 - How to maintain boundaries but also be accessible ?
 - How to navigate a lack of age gap?
